@@ -9,6 +9,8 @@ import {
   CardTitle,
 } from "../ui/card";
 
+
+
 export function ProjectsSection() {
   const projects = [
     {
@@ -18,7 +20,7 @@ export function ProjectsSection() {
       technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
       github: "https://nnathalia.github.io/CurriculoDev/",
       demo: "https://github.com/nnathalia/CurriculoDev",
-      image: "/src/assets/curriculo-dev.png",
+      image: "/images/curriculo-dev.png",
     },
     {
       title: "SIMC - Sistem Inteligente de Monitoramento Climatico ",
@@ -27,7 +29,7 @@ export function ProjectsSection() {
       technologies: ["Python", "Django", "PostgreSQL", "Arduino", "Sensores"],
       github: "https://github.com/nnathalia/CurriculoDev",
       demo: null,
-      image: "/src/assets/simc.png",
+      image: "/images/simc.png",
     },
     {
       title: "Tech Parking",
@@ -36,7 +38,7 @@ export function ProjectsSection() {
       technologies: ["Python", "Django", "SQLite", "Arduino", "Sensores"],
       github: "http://github.com/nnathalia/tech_parking?tab=readme-ov-file",
       demo: null,
-      image: "/src/assets/tech-parking.png",
+      image: "/images/tech-parking.png",
     },
   ];
   return (
