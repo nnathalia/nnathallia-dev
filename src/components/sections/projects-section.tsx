@@ -18,8 +18,8 @@ export function ProjectsSection() {
       description:
         "Projeto de currículo desenvolvido com foco em apresentação profissional e design moderno.",
       technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      github: "https://nnathalia.github.io/CurriculoDev/",
-      demo: "https://github.com/nnathalia/CurriculoDev",
+      github: "https://github.com/nnathalia/CurriculoDev",
+      demo: "https://nnathalia.github.io/CurriculoDev/",
       image: "/images/curriculo-dev.png",
     },
     {
