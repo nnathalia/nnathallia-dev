@@ -23,7 +23,7 @@ export function ProjectsSection() {
       image: "/images/curriculo-dev.png",
     },
     {
-      title: "SIMC - Sistem Inteligente de Monitoramento Climatico ",
+      title: "SIMC - Sistema Inteligente de Monitoramento Climatico ",
       description:
         "O SIMC é um sistema web que exibe em tempo real os dados coletados pela estação meteorológica, permitindo acompanhar e visualizar informações climáticas de forma prática.",
       technologies: ["Python", "Django", "PostgreSQL", "Arduino", "Sensores"],
